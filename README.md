@@ -10,14 +10,14 @@
 
 <br>
 
-<br><!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 <!--                   TYPING ANIMATION                        -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FF9933&center=true&vCenter=true&width=700&lines=Hey+There!+I'm+Deep+Kundaliya+%F0%9F%91%8B;3rd+Year+CE+Student+%40+RK+University+%F0%9F%8E%93;Support+Executive+Intern+%40+Rishvi+Ltd+%F0%9F%92%BC;PHP+%26+Full-Stack+Web+Developer+%F0%9F%92%BB;Built+Jan-Mat+Bharat+Voting+Platform+%F0%9F%97%B3%EF%B8%8F;Khel+Mahakumbh+Tug+of+War+Champion+%F0%9F%8F%86;Proudly+from+Rajkot%2C+Gujarat%2C+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FF9933&center=true&vCenter=true&width=700&lines=Hey!+I'm+Deep+Kundaliya+%F0%9F%91%8B;PHP+%26+Full-Stack+Web+Developer+%F0%9F%92%BB;Support+Executive+Intern+%40+Rishvi+Ltd+%F0%9F%92%BC;Proudly+from+Rajkot%2C+Gujarat%2C+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -116,6 +116,11 @@ const deep = {
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
 
+### 📚 Currently Learning
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 </div>
 
 ---
@@ -128,11 +133,13 @@ const deep = {
 
 <div align="center">
 
-| 🔖 Project | 📄 Description | 💻 Stack | ⭐ Stars |
-|:---|:---|:---:|:---:|
-| 🗳️ **[Jan-Mat Bharat](https://github.com/kundaliyadeep2005-cloud/jan-mat-bharat)** | Secure biometric online voting platform with Face-API.js, 128D face encoding & Indian tricolor UI | PHP • MySQL • Face-API.js • Bootstrap 5 | ⭐ 9 |
-| ✈️ **[TravelGo](https://github.com/kundaliyadeep2005-cloud/TravelGo)** | Complete travel booking & management web application | PHP • MySQL • Bootstrap | ⭐ 8 |
-| 🏨 **[Rudra Resort](https://github.com/kundaliyadeep2005-cloud/Rudra-resort)** | Full-featured hotel & resort management system | PHP • MySQL | ⭐ 8 |
+| 🔖 Project | 📄 Description | 💻 Stack | 🔗 Demo | ⭐ Stars |
+|:---|:---|:---:|:---:|:---:|
+| 🗳️ **[Jan-Mat Bharat](https://github.com/kundaliyadeep2005-cloud/jan-mat-bharat)** | Secure biometric online voting platform with Face-API.js, 128D face encoding & Indian tricolor UI | PHP • MySQL • Face-API.js • Bootstrap 5 | [Live Demo](#) | ⭐ 9 |
+| ✈️ **[TravelGo](https://github.com/kundaliyadeep2005-cloud/TravelGo)** | Complete travel booking & management web application | PHP • MySQL • Bootstrap | [Live Demo](#) | ⭐ 8 |
+| 🏨 **[Rudra Resort](https://github.com/kundaliyadeep2005-cloud/Rudra-resort)** | Full-featured hotel & resort management system | PHP • MySQL | [Live Demo](#) | ⭐ 8 |
+
+> 💡 Replace the `[Live Demo](#)` links above with your actual hosted URLs once deployed (e.g. on InfinityFree, Vercel, or Netlify).
 
 </div>
 
@@ -146,16 +153,27 @@ const deep = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kundaliyadeep2005-cloud&layout=compact&theme=solarized-light&title_color=FF9933&border_color=FF9933&text_color=222222&border_radius=15" />
+<!-- Overall stats card -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kundaliyadeep2005-cloud&show_icons=true&theme=solarized-light&title_color=FF9933&icon_color=138808&border_color=FF9933&border_radius=15&cache_seconds=1800" />
+
+<!-- Top languages card -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kundaliyadeep2005-cloud&layout=compact&theme=solarized-light&title_color=FF9933&border_color=FF9933&text_color=222222&border_radius=15&langs_count=8&cache_seconds=1800" />
 
 </div>
 
 <div align="center">
 
+<!-- Streak stats -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kundaliyadeep2005-cloud&theme=solarized-light&ring=FF9933&fire=138808&currStreakLabel=FF9933&border=FF9933&border_radius=15" />
 
 </div>
 
+<!-- Activity Graph -->
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kundaliyadeep2005-cloud&theme=github-light&color=FF9933&line=138808&point=FF9933&area=true&hide_border=false" width="100%" />
+
+</div>
 
 <div align="center">
 
@@ -177,8 +195,8 @@ const deep = {
 |:---:|:---|:---|
 | 2025 – 2028 | **RK University, Rajkot** | B.Tech Computer Engineering (D2D) — 3rd Year (Ongoing) |
 | 2022 – 2025 | **Diploma in Computer Engineering** | 6th Sem — TravelGo 🌐 &nbsp;•&nbsp; 4th Sem — Rudra Resort 🏨 |
-| 2019 - 2022 | **SGIS Morbi Gurukul** | Secondary Education — Std 8th to 10th |
-| 2012 - 2019 | **TCDAVPS Mithapur** | Primary Education — Std 1st to 7th |
+| 2019 – 2022 | **SGIS Morbi Gurukul** | Secondary Education — Std 8th to 10th |
+| 2012 – 2019 | **TCDAVPS Mithapur** | Primary Education — Std 1st to 7th |
 
 </div>
 
@@ -252,6 +270,7 @@ const deep = {
 - 🔐 Upgrading **Jan-Mat Bharat** with stronger security & mobile-first design
 - 🤝 Actively seeking **HR & Business Development** opportunities
 - 📖 Improving skills in **secure PHP development & project management**
+- 📚 Learning **React**, **Node.js**, and **Python** to expand my stack
 - 🏏 Representing my team in **cricket** & staying fit with **morning jogs**
 - ☕ Fun fact: I debug code with morning chai and cricket strategies in mind!
 
