@@ -121,6 +121,11 @@ const deep = {
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
+<br/>
+
+### 🛠️ Skills at a Glance
+<img src="https://skillicons.dev/icons?i=php,js,html,css,mysql,bootstrap,git,github,vscode,cpp,react,nodejs,python&theme=light" />
+
 </div>
 
 ---
@@ -140,44 +145,6 @@ const deep = {
 | 🏨 **[Rudra Resort](https://github.com/kundaliyadeep2005-cloud/Rudra-resort)** | Full-featured hotel & resort management system | PHP • MySQL | [Live Demo](#) | ⭐ 8 |
 
 > 💡 Replace the `[Live Demo](#)` links above with your actual hosted URLs once deployed (e.g. on InfinityFree, Vercel, or Netlify).
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                   GITHUB STATS                            -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<!-- Overall stats card -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kundaliyadeep2005-cloud&show_icons=true&theme=solarized-light&title_color=FF9933&icon_color=138808&border_color=FF9933&border_radius=15&cache_seconds=1800" />
-
-<!-- Top languages card -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kundaliyadeep2005-cloud&layout=compact&theme=solarized-light&title_color=FF9933&border_color=FF9933&text_color=222222&border_radius=15&langs_count=8&cache_seconds=1800" />
-
-</div>
-
-<div align="center">
-
-<!-- Streak stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kundaliyadeep2005-cloud&theme=solarized-light&ring=FF9933&fire=138808&currStreakLabel=FF9933&border=FF9933&border_radius=15" />
-
-</div>
-
-<!-- Activity Graph -->
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kundaliyadeep2005-cloud&theme=github-light&color=FF9933&line=138808&point=FF9933&area=true&hide_border=false" width="100%" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=kundaliyadeep2005-cloud&theme=flat&no-frame=false&no-bg=true&margin-w=8&column=6&title_color=FF9933" />
 
 </div>
 
